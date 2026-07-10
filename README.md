@@ -1,16 +1,62 @@
-## Hi there 👋
+```bash
+lucas@github:~$ whoami
 
-<!--
-**lucassimines/lucassimines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lucas Simines
+───────────────────────────────────────────────
 
-Here are some ideas to get you started:
+🌐 [Portfolio](https://lucassimines.dev/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full Stack Developer
+Frontend Specialist
+10+ years of experience
+
+```
+
+```console
+lucas@github:~$ cat skills.txt
+
+Frontend
+├── Vue.js
+├── Nuxt
+├── TypeScript
+├── Tailwind
+└── React
+
+Backend
+├── Node.js
+├── Express
+├── Laravel
+└── Prisma
+
+Infrastructure
+├── Docker
+├── AWS
+├── PostgreSQL
+└── GitHub Actions
+```
+
+```shell
+lucas@github:~$ git log --oneline --author=Lucas
+
+✓ Built large-scale Vue/Nuxt applications
+✓ Improved frontend architecture
+✓ Fixed impossible-to-find bugs
+✓ Designed reusable component libraries
+✓ Optimized performance & DX
+```
+
+```bash
+lucas@github:~$ ls personal-projects/
+
+📁 devcase-cms/
+📁 devcase-wev/
+📁 hourgrid/
+```
+
+```bash
+lucas@github:~$ curl lucassimines.dev
+
+> Portfolio     https://lucassimines.dev
+> Resume        https://resume.lucassimines.dev
+> LinkedIn      linkedin.com/in/lucassimines
+```
