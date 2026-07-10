@@ -4,8 +4,6 @@ lucas@github:~$ whoami
 Lucas Simines
 ───────────────────────────────────────────────
 
-🌐 [Portfolio](https://lucassimines.dev/)
-
 Full Stack Developer
 Frontend Specialist
 10+ years of experience
