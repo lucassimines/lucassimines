@@ -1,3 +1,10 @@
+<table>
+  <tr>
+    <td><img src="https://lucassimines.dev/favicon.ico" width="28" alt="Logo"></td>
+    <td><a href="https://lucassimines.dev">lucassimines.dev</a></td>
+  </tr>
+</table>
+
 ```bash
 lucas@github:~$ whoami
 
