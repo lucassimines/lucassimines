@@ -1,9 +1,4 @@
-<table>
-  <tr>
-    <td><img src="https://lucassimines.dev/favicon.ico" width="28" alt="Logo"></td>
-    <td><a href="https://lucassimines.dev">lucassimines.dev</a></td>
-  </tr>
-</table>
+<img src="https://lucassimines.dev/favicon.ico" width="20" alt="Logo" align="absmiddle"> <a href="https://lucassimines.dev">lucassimines.dev</a>
 
 ```bash
 lucas@github:~$ whoami
