@@ -49,7 +49,7 @@ lucas@github:~$ git log --oneline --author=Lucas
 lucas@github:~$ ls personal-projects/
 
 📁 devcase-cms/
-📁 devcase-wev/
+📁 nuxt-revue/
 📁 hourgrid/
 ```
 
